@@ -9,8 +9,14 @@ mysqlclient = "*"
 python-dotenv = "*"
 djangorestframework = "*"
 drf-nested-routers = "*"
+django-filter = "*"
+django-debug-toolbar = "*"
+djoser = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
+pytest = "*"
+pytest-django = "*"
 
 [requires]
 python_version = "3.12"
